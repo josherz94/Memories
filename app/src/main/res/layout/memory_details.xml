@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MemoryDetails">
+
+    <EditText
+        android:id="@+id/title_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/title_details"
+        android:inputType="numberDecimal"
+        android:text="@string/title_details" />
+
+    <EditText
+        android:id="@+id/date_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/date_details"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/description_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="numberDecimal"
+        android:hint="@string/description_details"
+        android:text="@string/description_details" />
+
+    <Button
+        android:id="@+id/show_on_map"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show on Map" />
+
+    <Button
+        android:id="@+id/save_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/save_button" />
+
+    <Button
+        android:id="@+id/delete_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="@string/delete_button" />
+
+</LinearLayout>

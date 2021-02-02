@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_on_map">show on map</string>
+    <string name="save_button">save button</string>
+    <string name="delete_button">delete button</string>
+    <string name="add_picture_button">add picture</string>
+    <string name="add_memory_button">add memory</string>
+    <string name="add_title">add title</string>
+    <string name="add_description">add description</string>
+    <string name="add_date">add date time</string>
+    <string name="title_details">title details</string>
+    <string name="description_details">description details</string>
+    <string name="date_details">date time details</string>
+    <string name="pick_date">pick a date</string>
+    <string name="show_date">Pick a Date</string>
+    <string name="description">Description</string>
+    <string name="fab">floating action button</string>
+    <string name="add_picture">Add a photo</string>
+</resources>
