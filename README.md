@@ -20,7 +20,7 @@ to create a dynamic list of Memory objects. The application also allows users to
 location they were added via Google Maps.
 
 ## Screenshots
-![Home Screen](/Memories/blob/main/screenshots/homescreen.png)
+![Home Screen](/Memories/blob/main/screenshots/homescreen.png?raw=true)
 
 ## Technologies
 * Android Studio
